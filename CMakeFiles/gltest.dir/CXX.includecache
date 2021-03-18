@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xsevcik/Projects/gltest/src/loadShader.cpp
+loadShader.hpp
+/home/xsevcik/Projects/gltest/src/loadShader.hpp
+
+include/loadShader.hpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+GL/glew.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/gltest.dir/src/gltest.cpp.o CMakeFiles/gltest.dir/src/loadShader.cpp.o -o build/bin/gltest  -lGL -lglfw -lGLEW 
